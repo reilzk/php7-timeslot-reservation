@@ -1,1 +1,2 @@
 # php7-timeslot-reservation
+Time Slots Booking Calendar is an appointment calendar and online booking system that allows clients to book appointments with you. The time slot calendar is suitable for both individual and group appointments. That makes it the perfect reservation system for booking appointments with hairdressers, therapists, private trainers, as well as arranging a spot in group classes. Setup and script integration are totally painless!
